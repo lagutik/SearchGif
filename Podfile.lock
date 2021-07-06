@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.4.3)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - SwiftyGif (5.4.0)
+
+DEPENDENCIES:
+  - Moya (~> 14.0)
+  - SwiftyGif
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Moya
+    - SwiftyGif
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  SwiftyGif: 5d4af95df24caf1c570dbbcb32a3b8a0763bc6d7
+
+PODFILE CHECKSUM: b4dbec7ee081cc5d59aba0fd350da8233c333619
+
+COCOAPODS: 1.10.1
